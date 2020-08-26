@@ -1,7 +1,1 @@
-#1/system/bin/sh
 
-read -p "Masukkan Nama Anda Disini :" nama
-echo "Selamat Datang" $nama
-echo "====================="
-echo "Ererre"
-Sleep 3
