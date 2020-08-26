@@ -2,6 +2,6 @@
 
 read -p "Masukkan Nama Anda Disini :" nama
 echo "Selamat Datang" $nama
-Sleep 3
 echo "====================="
 echo "Ererre"
+Sleep 3
